@@ -129,13 +129,3 @@ cat /proc/asound/card0/codec#0 shows ALC298 and node 0x17 (internal speaker) wit
 
 Attempting playback (PipeWire or speaker-test) produces no audible sound from internal speakers.
 
-If you want me to file
-I can open these two issues for you if you prefer; I’ll need either:
-
-Your GitHub username and permission to open issues on your behalf (not recommended here), or
-
-You can copy the two issue bodies above and paste them into the respective repositories:
-
-thesofproject/sof (SOF topology/firmware)
-
-alsa-project/alsa-ucm-conf (UCM profile)
